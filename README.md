@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daesvi&label=Profile%20views&color=0e75b6&style=flat" alt="daesvi" /> </p>
 
-- 🌱 I’m currently learning **ASP .NET**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Java, Springboot, .NET, API Rest**
 
