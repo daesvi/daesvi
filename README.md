@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daesvi&label=Profile%20views&color=0e75b6&style=flat" alt="daesvi" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ASP .NET**
 
-- 💬 Ask me about **Java, Springboot, API Rest**
+- 💬 Ask me about **Java, Springboot, .NET, API Rest**
 
 - 📫 How to reach me **villegasdaniel4321@gmail.com**
 
