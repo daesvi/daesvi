@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/daesvi/daesvi/assets/89358095/d70e6c6d-0a78-400b-9842-6d1d2129dc38)
 <h1 align="center">Hi 👋, I'm Daniel Estiven Villegas Bedoya</h1>
 <h3 align="center">A passionate BackEnd developer from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/daesvi/daesvi/assets/89358095/ea64e14c-229e-4fbf-b268-e245ebb35390">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daesvi&label=Profile%20views&color=0e75b6&style=flat" alt="daesvi" /> </p>
 
